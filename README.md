@@ -1,6 +1,6 @@
 # Alexsander Jayo
 
-Estudiante de Ingeniería de Sistemas en la UNCP, con experiencia de movilidad académica en la PUCP.
+Estudiante de Ingeniería de Sistemas en la UNCP
 Desarrollo proyectos de software para procesos empresariales y problemas locales, con interés en datos y productos útiles.
 
 ## En qué trabajo
